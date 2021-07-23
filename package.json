@@ -1,7 +1,6 @@
 {
-  "homepage": "http://manuel1710.github.io/nscam",
-  "name": "learn-react2",
-  "version": "1.4.8",
+  "name": "nscam-website",
+  "version": "1.4.9",
   "private": true,
   "dependencies": {
     "@fortawesome/free-solid-svg-icons": "^5.15.3",
@@ -20,8 +19,6 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
