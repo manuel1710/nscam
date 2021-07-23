@@ -117,6 +117,12 @@ button:active button:hover .btn:active,
   }
 }
 
+@media only screen and (max-width: 480px){
+  .services-area .services-title {
+    padding: 0;
+  }
+}
+
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -212,7 +218,7 @@ button:active button:hover .btn:active,
 }
 
 .services-area .services-title {
-  padding: 0 14rem;
+  padding: auto 14rem;
 }
 .services-area .services-title h1 {
   font-size: 50px;
@@ -220,7 +226,7 @@ button:active button:hover .btn:active,
 
 .services-area .services {
   background: rgba(248, 252, 253, 0.973);
-  padding: 2rem 0;
+  padding: 2rem auto;
   width: 16rem;
   margin: 5rem 0.5rem;
   transition: box-shadow 0.7s ease;
@@ -245,7 +251,7 @@ button:active button:hover .btn:active,
 .about-area .about-title h2 > span {
   display: block;
   font: normal bold 49px/60px "Serif";
-  letter-spacing: 21px;
+  letter-spacing: 12px;
 }
 
 .about-area .about-title .paragraph > p {

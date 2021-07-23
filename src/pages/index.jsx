@@ -19,7 +19,7 @@ const MainPage = () => {
       <Navbar />
       <br />
       {/* SITE BANNER START */}
-      <section className="site-banner">
+      <section className="site-banner d-flex">
         <div className="container">
           <div className="row">
             <div className="col-lg-6 col-md-12 site-title">
@@ -37,7 +37,7 @@ const MainPage = () => {
       </section>
       {/* SITE BANNER END */}
       {/* ABOUT COMPANY or ME AREA */}
-      <section className="about-area">
+      <section className="about-area d-flex">
         <div className="container-fluid">
           <div className="row">
             <div className="col-lg-6 col-md-12">
@@ -82,9 +82,9 @@ const MainPage = () => {
       {/* END ABOUT COMPANY or ME AREA */}
       {/* SERVICES AREA START */}
       <section className="services-area">
-        <div className="container">
+        <div className="container ">
           <div className="row">
-            <div className="col-lg-12 text-center services-title">
+            <div className="col-lg-12 col-md-12 col-sm-12 text-center services-title">
               <h1 className="text-uppercase title-text">Services Offered</h1>
               <p className="para"><h3>We offer a wide range of services!</h3></p>
             </div>
