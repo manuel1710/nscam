@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/nscam/static/css/main.5cef29c3.chunk.css",
+    "main.js": "/nscam/static/js/main.90351b81.chunk.js",
+    "main.js.map": "/nscam/static/js/main.90351b81.chunk.js.map",
+    "runtime-main.js": "/nscam/static/js/runtime-main.b7909fea.js",
+    "runtime-main.js.map": "/nscam/static/js/runtime-main.b7909fea.js.map",
+    "static/css/2.455652b6.chunk.css": "/nscam/static/css/2.455652b6.chunk.css",
+    "static/js/2.ff39b46a.chunk.js": "/nscam/static/js/2.ff39b46a.chunk.js",
+    "static/js/2.ff39b46a.chunk.js.map": "/nscam/static/js/2.ff39b46a.chunk.js.map",
+    "static/js/3.baa18bef.chunk.js": "/nscam/static/js/3.baa18bef.chunk.js",
+    "static/js/3.baa18bef.chunk.js.map": "/nscam/static/js/3.baa18bef.chunk.js.map",
+    "index.html": "/nscam/index.html",
+    "static/css/2.455652b6.chunk.css.map": "/nscam/static/css/2.455652b6.chunk.css.map",
+    "static/css/main.5cef29c3.chunk.css.map": "/nscam/static/css/main.5cef29c3.chunk.css.map",
+    "static/js/2.ff39b46a.chunk.js.LICENSE.txt": "/nscam/static/js/2.ff39b46a.chunk.js.LICENSE.txt",
+    "static/media/about-us.b89e4185.png": "/nscam/static/media/about-us.b89e4185.png",
+    "static/media/App.css": "/nscam/static/media/background.af0eae7b.jpg",
+    "static/media/business.fcf61c43.jpg": "/nscam/static/media/business.fcf61c43.jpg",
+    "static/media/event-planning.24df645d.jpg": "/nscam/static/media/event-planning.24df645d.jpg",
+    "static/media/logo1.ade7b244.png": "/nscam/static/media/logo1.ade7b244.png",
+    "static/media/test.7de4a685.jpeg": "/nscam/static/media/test.7de4a685.jpeg",
+    "static/media/tour.0dca301c.jpg": "/nscam/static/media/tour.0dca301c.jpg",
+    "static/media/vacation.28c00f38.jpg": "/nscam/static/media/vacation.28c00f38.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b7909fea.js",
+    "static/css/2.455652b6.chunk.css",
+    "static/js/2.ff39b46a.chunk.js",
+    "static/css/main.5cef29c3.chunk.css",
+    "static/js/main.90351b81.chunk.js"
+  ]
+}
